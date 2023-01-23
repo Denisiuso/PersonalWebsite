@@ -1,0 +1,14 @@
+    body {
+        background-color: #E5E0FF;}
+
+    hr {
+    
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 3px 1px black;
+    }
+    h1, h2, h3 {
+    
+    color: #4840b8;
+
+    }
